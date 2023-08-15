@@ -1,2 +1,2 @@
 # Muscle-Evolution-Rbx
-script lua
+# Best script and one of first for Muscle Evolution
